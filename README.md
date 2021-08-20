@@ -1,4 +1,4 @@
-# System Plus React Native_Assessment
+# System Plus React Native Assessment
 
 A repository to test and evaluate React Native candidates for SSE position.
 
