@@ -1,6 +1,6 @@
 # System Plus React Native Assessment
 
-A repository to test and evaluate React Native candidates for SSE position.
+A repository to test and evaluate React Native candidates for SE (Software Engineer) position.
 
 ## Introduction :
 
@@ -53,4 +53,4 @@ Function based React Coding is more optimised with latest versions of React and 
 11. Logical Problem solving is an ended programming exercise. Problem descriptions are
     provided and you are supposed to implement a solution. However, in design tasks you will have to strictly follow the styling & design provided.
 
-12. In case of confusions, please contact us at our email.
+12. In case of confusions, please contact at usama@systemplus.co
