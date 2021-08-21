@@ -1,6 +1,6 @@
 # SystemPlus React Native Assessment
 
-A repository to test and evaluate React Native candidates for SSE position.
+A repository to test and evaluate React Native candidates for SE (Software Engineer) position.
 
 ## Introduction :
 
@@ -71,4 +71,4 @@ You are supposed to create 3-4 screens in React-Native:
 7. This will be an open ended programming exercise. Problem descriptions are
    provided and you are supposed to implement a solution.
 
-8. In case of confusions, please contact us at our email.
+8. In case of confusions, please contact us at usama@systemplus.co
