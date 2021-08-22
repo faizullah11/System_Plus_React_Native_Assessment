@@ -1,4 +1,5 @@
-# SystemPlus React Native Assessment
+
+# System Plus React Native Assessment
 
 A repository to test and evaluate React Native candidates for SE (Software Engineer) position.
 
@@ -68,7 +69,8 @@ You are supposed to create 3-4 screens in React-Native:
 6. After you are done implementing a task, please add comments in the code file
    for clear understanding and add a Readme.md file if necessary.
 
-7. This will be an open ended programming exercise. Problem descriptions are
-   provided and you are supposed to implement a solution.
 
-8. In case of confusions, please contact us at usama@systemplus.co
+11. Logical Problem solving is an open-ended programming exercise. Problem descriptions are
+    provided and you are supposed to implement a solution. However, in design tasks you will have to strictly follow the styling & design provided.
+
+12. In case of confusions, please contact at usama@systemplus.co
