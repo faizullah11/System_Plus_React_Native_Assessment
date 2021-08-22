@@ -11,10 +11,14 @@ Remains the intellectual property of System Plus Pvt. Limited.**
 You are supposed to create 3-4 screens in React-Native:
 
 - Design Translation (Accuracy in design implementation is important !!)
-  - Calendar Screen
+  - Calendar Screen (Mandatory!)
     (Design provided to you through a link or design file developed in Figma, Adobe XD, or Zeplin etc.)
-  - Simple Profile Screen.
+    https://www.figma.com/file/aYU9juJdCUW821g5B2Deu1/Untitled?node-id=0%3A1
+  - Listings Screen (Optional!)
     (Design provided to you through a link or design file developed in Figma, Adobe XD, or Zeplin etc.)
+    https://www.figma.com/file/aYU9juJdCUW821g5B2Deu1/Untitled?node-id=0%3A1
+  - Design Understanding:
+    Make sure to explore figma links provided to you. Contact us at the email provided below in case of any problem. Also please make sure you watch the prototype of these screens by pressing the play button in the top right corner when you open the figma links provided to you. You can double click an asset and export it using the options in export tab on the right column.
 - API or Data Related Screens
   - Universities Screen
     (Open-ended design, API integration related tasks are mentioned below)
@@ -26,7 +30,7 @@ You are supposed to create 3-4 screens in React-Native:
 #### Design Tasks Brief:
 
 1. For this task please navigate to folder app/src/design/ and you will be implementing the design provided to you, all by yourself without using any third party library except for native-base, and react-native-paper.
-2. You will be provided with design files created in tools like Adobe XD, Figma or Zeplin etc. Or design links created in these design tools.
+2. You will be provided with design files created in tools like Adobe XD, Figma or Zeplin etc. Or design links created in these design tools.  https://www.figma.com/file/aYU9juJdCUW821g5B2Deu1/Untitled?node-id=0%3A1
 3. You will have to implement the design as accurately as possible in pure React Native without using any third party libraries except for native-base and react-native-paper.
 4. Other design related tasks are open-ended and you can take whatever approach you want to design the rest.
 5. You are required to design a total of 3-4 screens. Design of 1-2 screen is provided to you and rest of the screens are related to API related tasks mentioned below and are open-ended.
