@@ -5,7 +5,7 @@ A repository to test and evaluate React Native candidates for SE (Software Engin
 
 ## Introduction :
 
-**This branch has React Native related tasks. There is an app folder and it has a React Native project already initialised for you. Navigate to app/src and it has two folders design and data. Design folder has design related tasks and data has api related tasks. Details are in the Readme.md files in these folders as well.
+**This branch has React Native related tasks. There is an app folder and it has a React Native project already initialised for you. Navigate to app/src and it has two folders design and data. You will implement design related tasks in design folder and api related tasks in data folder. Details are in the Readme.md files in these folders as well.
 Remains the intellectual property of System Plus Pvt. Limited.**
 
 You are supposed to create 3-4 screens in React-Native:
@@ -17,9 +17,9 @@ You are supposed to create 3-4 screens in React-Native:
     (Design provided to you through a link or design file developed in Figma, Adobe XD, or Zeplin etc.)
 - API or Data Related Screens
   - Universities Screen
-    (Open-end design, API integration related tasks are mentioned below)
+    (Open-ended design, API integration related tasks are mentioned below)
   - University Details Screen
-    (open-end design, API integration related tasks are mentioned below)
+    (open-ended design, API integration related tasks are mentioned below)
 
 ## Brief:
 
