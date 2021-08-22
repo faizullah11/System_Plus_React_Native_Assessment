@@ -50,7 +50,7 @@ Function based React Coding is more optimised with latest versions of React and 
 10. After you are done implementing a task, please add comments in the code file
     for clear understanding and add a Readme.md file if necessary.
 
-11. Logical Problem solving is an ended programming exercise. Problem descriptions are
+11. Logical Problem solving is an open-ended programming exercise. Problem descriptions are
     provided and you are supposed to implement a solution. However, in design tasks you will have to strictly follow the styling & design provided.
 
 12. In case of confusions, please contact at usama@systemplus.co
