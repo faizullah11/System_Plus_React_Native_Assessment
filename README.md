@@ -14,16 +14,11 @@ You are supposed to create 3-4 screens in React-Native:
   - Calendar Screen (Mandatory!)
     (Design provided to you through a link or design file developed in Figma, Adobe XD, or Zeplin etc.)
     https://www.figma.com/file/aYU9juJdCUW821g5B2Deu1/Untitled?node-id=0%3A1
-  - Listings Screen (Optional!)
-    (Design provided to you through a link or design file developed in Figma, Adobe XD, or Zeplin etc.)
-    https://www.figma.com/file/aYU9juJdCUW821g5B2Deu1/Untitled?node-id=0%3A1
   - Design Understanding:
-    Make sure to explore figma links provided to you. Contact us at the email provided below in case of any problem. Also please make sure you watch the prototype of these screens by pressing the play button in the top right corner when you open the figma links provided to you. You can double click an asset and export it using the options in export tab on the right column.
+    Make sure to explore figma link provided to you. Contact us at the email provided below in case of any problem. You can double click an asset and export it using the options in export tab on the extreme right column.
 - API or Data Related Screens
   - Universities Screen
     (Open-ended design, API integration related tasks are mentioned below)
-  - University Details Screen
-    (open-ended design, API integration related tasks are mentioned below)
 
 ## Brief:
 
@@ -33,7 +28,7 @@ You are supposed to create 3-4 screens in React-Native:
 2. You will be provided with design files created in tools like Adobe XD, Figma or Zeplin etc. Or design links created in these design tools.  https://www.figma.com/file/aYU9juJdCUW821g5B2Deu1/Untitled?node-id=0%3A1
 3. You will have to implement the design as accurately as possible in pure React Native without using any third party libraries except for native-base and react-native-paper.
 4. Other design related tasks are open-ended and you can take whatever approach you want to design the rest.
-5. You are required to design a total of 3-4 screens. Design of 1-2 screen is provided to you and rest of the screens are related to API related tasks mentioned below and are open-ended.
+5. You are required to design a total of 2 screens. Design of one screen is provided to you and rest of the screens are related to API related tasks mentioned below and are open-ended.
 6. Feel free to contact us in case of any confusions.
 
 #### Data & API Tasks Brief:
@@ -41,15 +36,11 @@ You are supposed to create 3-4 screens in React-Native:
 1. For this task, navigate to app/src/data and write all your code there.
 2. For this task, you will have to use the APIs provided to you for each task.
    - http://universities.hipolabs.com/search?country=[MY_COUNTRY]&name=[UNIVERSITY_NAME]
-   - https://nominatim.geocoding.ai/search.php?q=[MY_QUERY]
-3. First API provides universities data according to the provided parameters. Country and university name are optional parameters. Calling http://universities.hipolabs.com/search will return all the universities in the world. It is difficult to handle such large data. So we will be implementing caching for our API Requests.
-4. We will be using the universities data and show them on Universties Screen. We will have two fields in the top header on this screen,Country and Name. List items would change as we type in these fields. Use FlatList to show the university loaded through our API Requests. Use a Card type design with university details.
-5. Whenever you click on the university item, it will take you to the University Details Screen. You will pass the relevant university data to Details Screen. And it will load all the geocoding data on mount and render its information on that page along with the university. In case of errors, both screens must show appropriate error message. Design of University Details Screen is also open-ended. Use cards and native-base layout to show the results.
-6. You are only allowed to use react-navigation or react-native-navigation as a navigator only.
-7. Make appropriate navigation options to test all the screens developed.
-8. When I load the app again, it must show the cached data on Universities Screen and it must be updated when request is sent to the API and new data is loaded.
-9. Make good use of API skills for these tasks.
-10. All the state management will be done using Redux or Context API.
+3. First API provides universities data according to the provided parameters. Country and university name are optional parameters. Calling http://universities.hipolabs.com/search will return all the universities in the world. It is difficult to handle such large data. So we you will be implementing a solution that handles large data for our API Requests. (Hint: Optimisation matters)
+4. We will be using the universities data and show them on Universties Screen in the form of a list (Make good choice of an appropriate component). We will have two fields in the top header on this screen,Country and Name. List items would change as we type in these fields. Card type design is recommended. Use Country Picker to select the country attribute.
+5. You are only allowed to use react-navigation or react-native-navigation as a navigator only.
+6. Make appropriate navigation options to test both the screens developed.
+7. All the state management will be done using Redux or Context API.
 
 ## Instructions:
 
