@@ -55,4 +55,4 @@ Function based React Coding is more optimised with latest versions of React and 
 
 12. In case of confusions, please contact at usama@systemplus.co
 
-Faiz ullah khan
+Faiz ullah
