@@ -1,6 +1,7 @@
 # System Plus React Native Assessment
 
 A repository to test and evaluate React Native candidates for SE (Software Engineer) position.
+To run code use npx react-native run-android
 
 ## Introduction :
 
@@ -55,4 +56,4 @@ Function based React Coding is more optimised with latest versions of React and 
 
 12. In case of confusions, please contact at usama@systemplus.co
 
-Faiz ullah khan
+
