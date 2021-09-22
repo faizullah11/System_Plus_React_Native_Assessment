@@ -137,7 +137,7 @@ const getDayName = (dayIndex) =>{
     <View style={styles.container}>
            
       <ScrollView>
-        <View style={{height:hp(8),width:wp(100),alignItems:'center',justifyContent:'center'}}>
+        <View style={{height:hp(8),width:wp(100),alignItems:'center',justifyContent:'center',backgroundColor:'white'}}>
           <Text style={{fontSize:RFPercentage(2.4),fontWeight:'800',textAlign:'center',marginTop:hp(2)}}>Calendar</Text>
         </View>
       <View
@@ -169,6 +169,9 @@ const getDayName = (dayIndex) =>{
             paddingTop: 2,
             paddingBottom: 12,
           }}
+          leftSelector={[]}
+          rightSelector={[]}
+       //   setSelectedDate={new Date().getDate()}
           calendarHeaderStyle={{color: 'white'}}
           calendarColor={'#d3d3d3'}
           dateNumberStyle={{color: '#333'}}
@@ -180,7 +183,8 @@ const getDayName = (dayIndex) =>{
           datesWhitelist={datesWhitelist}
           datesBlacklist={datesBlacklist}
           headerText=" "
-          iconContainer={{flex: 0.1}}
+         //iconContainer={{flex: 0.1}}
+          
         />
       </View>
       <Text

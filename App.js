@@ -21,7 +21,7 @@ import Entypo from 'react-native-vector-icons/dist/Entypo'; //MaterialIcons
 import MaterialIcons from 'react-native-vector-icons/dist/MaterialIcons';
 import { NavigationContainer } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
-import Home from './src/components/Calendar';
+import Calendar from './src/components/Calendar';
 function Listenings() {
   return (
     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
@@ -61,7 +61,7 @@ LogBox.ignoreAllLogs();
           
         
         />
-        <Tab.Screen name="Calendar" component={Home}
+        <Tab.Screen name="Calendar" component={Calendar}
           options={{
             tabBarLabel: 'Calendar',
             tabBarIcon: ({ color, size }) => (
