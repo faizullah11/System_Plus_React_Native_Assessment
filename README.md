@@ -54,3 +54,5 @@ Function based React Coding is more optimised with latest versions of React and 
     provided and you are supposed to implement a solution. However, in design tasks you will have to strictly follow the styling & design provided.
 
 12. In case of confusions, please contact at usama@systemplus.co
+
+Faiz ullah
